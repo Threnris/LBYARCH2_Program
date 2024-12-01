@@ -37,4 +37,5 @@ The check is based on the example given in the specs
 
 iii.) Link to video
 https://drive.google.com/drive/folders/1vEHT1JrF4PGJUN53JNub83_6gKR9KjKz?usp=sharing
-  
+
+  *I removed the time functions in the actual code
