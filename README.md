@@ -1,3 +1,6 @@
+Morales AJ, Zapanta Frank S13
+
+
 i.) Short Analysis and Execution time
 Time for reason was really small, so in order buffer time it computed over 1000 executions per run:
 
